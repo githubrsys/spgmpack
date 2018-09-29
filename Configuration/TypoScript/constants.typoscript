@@ -56,3 +56,19 @@ plugin.bootstrap_package_contentelements {
 #######################################
 plugin.bootstrap_package.settings.less >
 plugin.bootstrap_package.settings.overrideLessVariables >
+
+page.theme.copyright.text = <span style="color:rgb(120, 120, 120)">Handel mit gebrauchten Spritzgießmaschinen <br/><br/> <sup>Arburg Dr. Boy Battenfeld Demag Engel Fanuc Ferromatik Krauss Maffei Netstal</sup></span><br/><br/> Spritzgussmaschinen-Handel Makies GmbH
+page.theme.language.enable = 0
+config.headerComment =
+plugin.bootstrap_package.settings.less.font-family-base = "@{google-webfont}", open-sans, open-sans-mono
+plugin.bootstrap_package.settings.less.font-family-monospace = open-sans-mono, "Courier New", monospace
+page.theme.googleFont.font = Open+Sans
+page.theme.meta.navigationValue = 3,4,5
+page.theme.cookieconsent.layout = basic-close
+page.theme.cookieconsent.content.href = 4
+page.theme.cookieconsent.type = opt-out
+page.theme.socialmedia.enable = 0
+page.logo.linktitle = Zur Startseite
+page.preloader.logo.file = EXT:spgmpack/Resources/Public/Images/LogoSpritzgussmaschinenHandelBright.svg
+page.theme.navigation.type = top
+page.theme.cookieconsent.location = 1
