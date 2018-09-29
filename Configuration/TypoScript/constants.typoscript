@@ -9,8 +9,8 @@
 ############
 page {
     logo {
-        file = EXT:spgmpack/Resources/Public/Images/logo.svg
-        fileInverted = EXT:spgmpack/Resources/Public/Images/logo-inverted.svg
+        file = EXT:spgmpack/Resources/Public/Images/LogoSpritzgussmaschinenHandelBright.svg
+        fileInverted = EXT:spgmpack/Resources/Public/Images/LogoSpritzgussmaschinenHandelBright.svg
         height = 52
         width = 192
         alt = spgmpack
