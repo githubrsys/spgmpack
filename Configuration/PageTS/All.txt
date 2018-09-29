@@ -1,0 +1,7 @@
+#
+# PageTS for spgmpack
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:spgmpack/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:spgmpack/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:spgmpack/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:spgmpack/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
